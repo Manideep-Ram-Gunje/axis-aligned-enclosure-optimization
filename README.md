@@ -92,9 +92,9 @@ g++ -std=c++17 algorithms/naive_rectangle.cpp -o naive
 
 This project was developed as part of a Coding Club challenge at **IIT Guwahati**.
 
-| Name                      | Role                            |
-|---------------------------|---------------------------------|
-| Manideep Ram Gunje        | Core Developer, Repo Maintainer |
-| Annigandla Kameshwara Rao | Algorithm Design                |
-| Maddala Bogati Sushanth   | Research & Optimization         |
-| Sankiti Aishwarya         | Testing & Validation            |
+| Name                      |
+|---------------------------|
+| Manideep Ram Gunje        |
+| Annigandla Kameshwara Rao |
+| Maddala Bogati Sushanth   |
+| Sankiti Aishwarya         |
