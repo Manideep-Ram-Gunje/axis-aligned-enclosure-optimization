@@ -83,10 +83,10 @@ Key contributions from the paper include:
 ```bash
 g++ -std=c++17 algorithms/naive_rectangle.cpp -o naive
 ./naive < input.txt
+```
 
 
 ---
-
 
 ## 🤝 Contributors
 
