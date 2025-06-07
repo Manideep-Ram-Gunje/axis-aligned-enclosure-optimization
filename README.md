@@ -84,6 +84,10 @@ Key contributions from the paper include:
 g++ -std=c++17 algorithms/naive_rectangle.cpp -o naive
 ./naive < input.txt
 
+
+---
+
+
 ## 🤝 Contributors
 
 This project was developed as part of a Coding Club challenge at **IIT Guwahati**.
