@@ -83,3 +83,14 @@ Key contributions from the paper include:
 ```bash
 g++ -std=c++17 algorithms/naive_rectangle.cpp -o naive
 ./naive < input.txt
+
+## 🤝 Contributors
+
+This project was developed as part of a Coding Club challenge at **IIT Guwahati**.
+
+| Name                      | Role                            |
+|---------------------------|---------------------------------|
+| Manideep Ram Gunje        | Core Developer, Repo Maintainer |
+| Annigandla Kameshwara Rao | Algorithm Design                |
+| Maddala Bogati Sushanth   | Research & Optimization         |
+| Sankiti Aishwarya         | Testing & Validation            |
