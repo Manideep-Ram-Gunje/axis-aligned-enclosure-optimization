@@ -1,4 +1,4 @@
-# 🧠 Axis-Aligned Enclosure Optimization
+# Axis-Aligned Enclosure Optimization
 
 This repository contains four progressively optimized C++ solutions to the **Axis-Aligned Enclosure Optimization** problem.
 
@@ -12,7 +12,7 @@ A building is considered enclosed if it lies strictly inside or on the boundary 
 
 ---
 
-## 🧩 Constraints
+## Constraints
 
 - Polygon must be axis-aligned (edges parallel to X/Y axes)
 - Polygon must be simple and closed (non-self-intersecting)
@@ -22,7 +22,7 @@ A building is considered enclosed if it lies strictly inside or on the boundary 
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 | File                     | Description                                 | Time Complexity                  |
 |--------------------------|---------------------------------------------|----------------------------------|
@@ -33,7 +33,7 @@ A building is considered enclosed if it lies strictly inside or on the boundary 
 
 ---
 
-## 🧪 Approach Summaries
+## Approach Summaries
 
 ### 1. `naive_rectangle.cpp`
 - Enumerates all possible X and Y boundaries
@@ -60,7 +60,7 @@ A building is considered enclosed if it lies strictly inside or on the boundary 
 
 ---
 
-## 📚 Research Reference
+## Research Reference
 
 This work is inspired by:
 
@@ -76,7 +76,7 @@ Key contributions from the paper include:
 
 ---
 
-## 🛠️ How to Compile & Run
+## How to Compile & Run
 
 ### Using g++ on Windows (Git Bash or WSL):
 
@@ -88,7 +88,7 @@ g++ -std=c++17 algorithms/naive_rectangle.cpp -o naive
 
 ---
 
-## 🤝 Contributors
+## Contributors
 
 This project was developed as part of a Coding Club challenge at **IIT Guwahati**.
 
