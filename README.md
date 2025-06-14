@@ -39,7 +39,7 @@ A building is considered enclosed if it lies strictly inside or on the boundary 
 - Enumerates all possible X and Y boundaries
 - For each rectangle, counts enclosed buildings
 - Optimizes based on total cost
-- **Slow**, but works fine for small N
+- **Slow**, but works just fine for small N
 
 ### 2. `optimized_rectangle.cpp`
 - Based on sweeping strategies in Chan & Har-Peled's 2012 paper
